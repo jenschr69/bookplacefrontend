@@ -1,0 +1,17 @@
+:before,
+:after,
+body {
+    border: border-box;
+}
+
+/* Import font style roboto - Google Fonts */
+
+.lightgray {
+    color: lightslategray;
+}
+
+/* Media queries */
+
+/* Tablet */
+
+/* Desktop */
