@@ -1,0 +1,16 @@
+Project E-mail bp@jenschrchristensen.se
+
+To-do-list
+Project signup for Font Awesome
+Import Icons from Font Awesome
+Import Roboto font from Google Fonts
+
+Learning List / Resources
+Font Awesome
+
+Google Fonts
+
+LIL: Figma Essential Training
+
+Resources
+https://fontawesome.com/ 
