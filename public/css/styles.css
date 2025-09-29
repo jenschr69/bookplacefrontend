@@ -47,7 +47,7 @@ nav a:hover {
 }
 
 /* Header styling */
-.header__image {
+.header-bg-image {
     background: url("../img/bp-header-image.jpg") no-repeat lightgreen;
 }
 

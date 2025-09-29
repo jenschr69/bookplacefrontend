@@ -3,7 +3,12 @@ Project E-mail bp@jenschrchristensen.se
 To-do-list
 Project signup for Font Awesome
 Import Icons from Font Awesome
-Import Roboto font from Google Fonts
+
+Replace Font Awesome with Bootstrap Icons
+
+Class Naming Bem style - https://getbem.com/introduction/ 
+
+Import Roboto font from Google Fonts - https://fonts.google.com/ 
 
 Learning List / Resources
 Bootstrap Icons - https://icons.getbootstrap.com/ 
