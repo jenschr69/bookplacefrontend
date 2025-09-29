@@ -6,15 +6,12 @@ Import Icons from Font Awesome
 Import Roboto font from Google Fonts
 
 Learning List / Resources
-Font Awesome
+Bootstrap Icons - https://icons.getbootstrap.com/ 
+Font Awesome - https://fontawesome.com/ 
 
-Google Fonts
+Google Fonts - https://fonts.google.com/
 
-LIL: Figma Essential Training
-
+LIL: Figma Essential Training - https://www.linkedin.com/learning/figma-essential-training-25318166/
 
 LIL: HTML & CSS Coding a navbar
 https://www.linkedin.com/learning/html-and-css-creating-navigation-bars/
-
-Resources
-https://fontawesome.com/ 
