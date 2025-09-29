@@ -12,5 +12,8 @@ Google Fonts
 
 LIL: Figma Essential Training
 
+LIL: HTML & CSS Coding a navbar
+https://www.linkedin.com/learning/html-and-css-creating-navigation-bars/
+
 Resources
 https://fontawesome.com/ 
